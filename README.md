@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mathew Joseph</h1>
-<h3 align="center">B.Sc (CS & IT) Graduate | Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">CS & IT Graduate | Full Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
 
